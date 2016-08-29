@@ -6,8 +6,12 @@
     "start": "node node_modules/react-native/local-cli/cli.js start"
   },
   "dependencies": {
+    "material-colors": "^1.0.0",
     "react": "15.3.1",
-    "react-native": "0.32.0"
+    "react-native": "0.32.0",
+    "react-native-button": "^1.6.0"
+  },
+  "engines": {
+    "node": "<=6.4.0"
   }
 }
-
